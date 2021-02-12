@@ -1,0 +1,6 @@
+.DS_Store
+phinx.yml
+phinx.php
+composer.lock
+migrations/
+/vendor
